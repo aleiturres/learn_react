@@ -1,0 +1,2 @@
+[0127/194438.663:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0127/194438.687:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Alexandre Iturres\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\75fc3910-a6af-427d-9410-a58965327a50: O sistema não pode encontrar o caminho especificado. (0x3)
